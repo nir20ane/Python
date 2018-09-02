@@ -7,5 +7,5 @@ No. | Problem | Diffculty | Hint
 2 |	[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | easy | XOR
 3 |	[Two Sum](https://leetcode.com/problems/two-sum/description/) | easy | Using Dictonary
 4 | [Validate IP](https://leetcode.com/problems/validate-ip-address/description/) | medium | Try Except Block for different checks
-5 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy | consider previous string and form current string
-6 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | Easy | List of List to append values
+5 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | easy | consider previous string and form current string
+6 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | easy | List of List to append values
