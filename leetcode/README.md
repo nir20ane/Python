@@ -13,3 +13,4 @@ No. | Problem | Diffculty | Hint
 8 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | easy | List of List to append values
 9 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | easy | use ASCII to count characters
 10 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/\/description/) | easy | check length and character match
+11 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | medium | shift from top till right
