@@ -16,7 +16,7 @@ No. | Problem | Diffculty | Hint
 11 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | medium | [shift from top till right](https://github.com/nir20ane/Python/blob/master/leetcode/RotateImage.py)
 12 | [Set Zero Matrices](https://leetcode.com/problems/set-matrix-zeroes/description/) | medium | [0th row and column as replacement](https://github.com/nir20ane/Python/blob/master/leetcode/SetZeroMatrices.py)
 13 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | easy | [concatenate or two loops](https://github.com/nir20ane/Python/blob/master/leetcode/RotateString.py)
-14 | [Rotate Array](https://leetcode.com/problems/rotate-array/description) | easy | Using reverse or Brute force
+14 | [Rotate Array](https://leetcode.com/problems/rotate-array/description) | easy | [Using reverse or Brute force](https://github.com/nir20ane/Python/blob/master/leetcode/RotateArray.py)
 15 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description) | medium | [low, high, mid target if's](https://github.com/nir20ane/Python/blob/master/leetcode/SearchinRotList.py)
 16 | [ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description) | medium | [Find Pivot and perform binary serach on two halves](https://github.com/nir20ane/Python/blob/master/leetcode/SortRotList2.py)
 17 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description) | medium | [Binary search, left and right](https://github.com/nir20ane/Python/blob/master/leetcode/SearchMinSortArray.py)
