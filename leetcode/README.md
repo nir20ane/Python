@@ -4,13 +4,13 @@ This has Leetcode solutions. Most problems have one or more solutions.
 No. | Problem | Diffculty | Hint
 --- | --- | --- | ---
 1 |	[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | easy | Two Pointer Technique
-2 |	[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | easy | XOR
-3 |	[Two Sum](https://leetcode.com/problems/two-sum/description/) | easy | Using Dictonary
-4 | [Validate IP](https://leetcode.com/problems/validate-ip-address/description/) | medium | Try Except Block for different checks
-5 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | easy | consider previous string and form current string
-6 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | easy | List of List to append values
+2 |	[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | easy | [XOR](https://github.com/nir20ane/Python/blob/master/leetcode/hammingdistance.py)
+3 |	[Two Sum](https://leetcode.com/problems/two-sum/description/) | easy | [Using Dictonary](https://github.com/nir20ane/Python/blob/master/leetcode/two_sum.py)
+4 | [Validate IP](https://leetcode.com/problems/validate-ip-address/description/) | medium | [Try Except Block for different checks](https://github.com/nir20ane/Python/blob/master/leetcode/validateIP.py)
+5 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | easy | [consider previous string and form current string](https://github.com/nir20ane/Python/blob/master/leetcode/count_and_say.py)
+6 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | easy | [List of List to append values](https://github.com/nir20ane/Python/blob/master/leetcode/pascal_triangle.py)
 7 | [Count Primes](https://leetcode.com/problems/count-primes/description/) | easy | [Sieve of Eratosthenes](https://github.com/nir20ane/Python/blob/master/leetcode/Count_Primes.py)
-8 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | easy | List of List to append values
+8 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | easy | [List of List to append values](https://github.com/nir20ane/Python/blob/master/leetcode/pascal_triangleII.py)
 9 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | easy | [use ASCII to count characters](https://github.com/nir20ane/Python/blob/master/leetcode/CanPermutePalindrome.py)
 10 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/\/description/) | easy | [check length and character match](https://github.com/nir20ane/Python/blob/master/leetcode/OneEditDistance.py)
 11 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | medium | [shift from top till right](https://github.com/nir20ane/Python/blob/master/leetcode/RotateImage.py)
