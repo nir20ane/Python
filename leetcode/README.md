@@ -3,7 +3,7 @@ This has Leetcode solutions. Most problems have one or more solutions.
 
 No. | Problem | Diffculty | Hint
 --- | --- | --- | ---
-1 |	[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | easy | Two Pointer Technique
+1 |	[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | easy | [Two Pointer Technique](https://github.com/nir20ane/Python/blob/master/leetcode/movezeroes.py)
 2 |	[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | easy | [XOR](https://github.com/nir20ane/Python/blob/master/leetcode/hammingdistance.py)
 3 |	[Two Sum](https://leetcode.com/problems/two-sum/description/) | easy | [Using Dictonary](https://github.com/nir20ane/Python/blob/master/leetcode/two_sum.py)
 4 | [Validate IP](https://leetcode.com/problems/validate-ip-address/description/) | medium | [Try Except Block for different checks](https://github.com/nir20ane/Python/blob/master/leetcode/validateIP.py)
