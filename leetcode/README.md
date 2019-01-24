@@ -1,6 +1,7 @@
 # Leetcode Problems
 This has Leetcode solutions. Most problems have one or more solutions.
 
+# Lists and Strings
 No. | Problem | Diffculty | Hint
 --- | --- | --- | ---
 1 |	[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | easy | [Two Pointer Technique](https://github.com/nir20ane/Python/blob/master/leetcode/movezeroes.py)
@@ -21,21 +22,26 @@ No. | Problem | Diffculty | Hint
 16 | [ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description) | medium | [Find Pivot and perform binary serach on two halves](https://github.com/nir20ane/Python/blob/master/leetcode/SortRotList2.py)
 17 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description) | medium | [Binary search, left and right](https://github.com/nir20ane/Python/blob/master/leetcode/SearchMinSortArray.py)
 18 | [ Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description) | hard | [Binary search, with mid == high condition](https://github.com/nir20ane/Python/blob/master/leetcode/SearchMinSortArray2.py)
-19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/ReverseLinkedList_Recursion.py)
-20 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/ReverseLinkedList_Iteration.py)
-21 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description) | easy | [Fast and Slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/MiddleofLinkedList.py)
-19 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/ReverseLinkedList_Recursion.py)
-20 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/ReverseLinkedList_Iteration.py)
-21 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description) | easy | [Fast and Slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/MiddleofLinkedList.py)
-22 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description) | easy | [Update next](https://github.com/nir20ane/Python/blob/master/leetcode/DeleteNodefromList.py)
-23 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/MergeTwoSortedListsIteration.py)
-24 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/MergeTwoSortedListsRecursion.py)
-25 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description) | easy | [Traverse through List](https://github.com/nir20ane/Python/blob/master/leetcode/RemoveDuplicatesfromSortedList.py)
-26 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements//description) | easy | [Determine head and traverse through List](https://github.com/nir20ane/Python/blob/master/leetcode/RemoveLinkedListElements.py)
-27 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description) | easy | [fast and slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedListCycle.py)
-28 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description) | easy | [slow and fast runners, odd length, reverse slow and compare](https://github.com/nir20ane/Python/blob/master/leetcode/PalindromeLinkedList.py)
-29 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description) | easy | [get length, adjust length, and compare](https://github.com/nir20ane/Python/blob/master/leetcode/IntersectionofLinkedList.py)
-30 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description) | medium | [dummy, i , j, last va < 9 = i](https://github.com/nir20ane/Python/blob/master/leetcode/PlusOneLinkedList.py)
-31 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description) | medium | [Use set,comapre val and next val](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedListComponents.py)
-32 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers-ii/description) | medium | [Have new node as 1, use helper with length and offset](https://github.com/nir20ane/Python/blob/master/leetcode/AddTwoNumbers.py)
-33 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description) | medium | [Use two loops, one k and another width, i and remaining ](https://github.com/nir20ane/Python/blob/master/leetcode/SplitLinkedListinParts.py)
+
+
+# LinkedLists
+No. | Problem | Diffculty | Hint
+--- | --- | --- | ---
+1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Recursion.py)
+2 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Iteration.py)
+2 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description) | easy | [Fast and Slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MiddleofLinkedList.py)
+3 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Recursion.py)
+4 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Iteration.py)
+5 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description) | easy | [Fast and Slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MiddleofLinkedList.py)
+6 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description) | easy | [Update next](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/DeleteNodefromList.py)
+7 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MergeTwoSortedListsIteration.py)
+8 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MergeTwoSortedListsRecursion.py)
+9 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description) | easy | [Traverse through List](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/RemoveDuplicatesfromSortedList.py)
+10 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements//description) | easy | [Determine head and traverse through List](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/RemoveLinkedListElements.py)
+11 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description) | easy | [fast and slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/LinkedListCycle.py)
+12 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description) | easy | [slow and fast runners, odd length, reverse slow and compare](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/PalindromeLinkedList.py)
+13 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description) | easy | [get length, adjust length, and compare](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/IntersectionofLinkedList.py)
+14 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description) | medium | [dummy, i , j, last va < 9 = i](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/PlusOneLinkedList.py)
+15 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description) | medium | [Use set,comapre val and next val](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/LinkedListComponents.py)
+16 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers-ii/description) | medium | [Have new node as 1, use helper with length and offset](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/AddTwoNumbers.py)
+17 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description) | medium | [Use two loops, one k and another width, i and remaining ](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/SplitLinkedListinParts.py)
