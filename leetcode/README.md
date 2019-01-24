@@ -29,10 +29,9 @@ No. | Problem | Diffculty | Hint
 --- | --- | --- | ---
 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Recursion.py)
 2 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Iteration.py)
-2 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description) | easy | [Fast and Slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MiddleofLinkedList.py)
-3 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Recursion.py)
-4 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Iteration.py)
-5 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description) | easy | [Fast and Slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MiddleofLinkedList.py)
+3 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description) | easy | [Fast and Slow runners](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MiddleofLinkedList.py)
+4 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Recursion.py)
+5 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedList_Iteration.py)
 6 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description) | easy | [Update next](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/DeleteNodefromList.py)
 7 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description) | easy | [Iteration](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MergeTwoSortedListsIteration.py)
 8 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description) | easy | [Recursion](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MergeTwoSortedListsRecursion.py)
