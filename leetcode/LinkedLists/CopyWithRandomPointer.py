@@ -16,4 +16,3 @@ class CopywithRandomPointer(object):
             dic[n].random = dic.get(n.random)
             n = n.next
         return dic.get(head)
-    
