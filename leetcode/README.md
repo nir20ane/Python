@@ -51,3 +51,7 @@ No. | Problem | Diffculty | Hint
 22 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description) | medium | [HashMap of Node, Node to store node and label](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/CopyWithRandomPointer.py)
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description) | hard | [Use Priority Queue, offer an poll](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/MergeKLinkedLists.py)
 24 | [Sort List](https://leetcode.com/problems/sort-list/description) | medium | [Recusrion and Merge](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/SortList.py)
+25 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | medium | [Reverse from middle, merge two and disconnect](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReOrderList.py)
+26 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | medium | [Get length, move to len-k%len, rotate](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/RotateList.py)
+27 | [Partition List](https://leetcode.com/problems/partition-list/description) | medium | [before, beforeh, after, afterh](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/PartitionList.py)
+28 | [Reverse Linked List ||](https://leetcode.com/problems/reverse-linked-list-ii/description/) | medium | [prev, tail, m-1, n-m](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedListII.py)
