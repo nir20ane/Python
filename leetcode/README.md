@@ -54,4 +54,4 @@ No. | Problem | Diffculty | Hint
 25 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | medium | [Reverse from middle, merge two and disconnect](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReOrderList.py)
 26 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | medium | [Get length, move to len-k%len, rotate](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/RotateList.py)
 27 | [Partition List](https://leetcode.com/problems/partition-list/description) | medium | [before, beforeh, after, afterh](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/PartitionList.py)
-28 | [Reverse Linked List ||](https://leetcode.com/problems/reverse-linked-list-ii/description/) | medium | [prev, tail, m-1, n-m](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedListII.py)
+28 | [Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/description/) | medium | [prev, tail, m-1, n-m](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedListII.py)
