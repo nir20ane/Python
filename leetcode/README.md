@@ -55,3 +55,13 @@ No. | Problem | Diffculty | Hint
 26 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | medium | [Get length, move to len-k%len, rotate](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/RotateList.py)
 27 | [Partition List](https://leetcode.com/problems/partition-list/description) | medium | [before, beforeh, after, afterh](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/PartitionList.py)
 28 | [Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/description/) | medium | [prev, tail, m-1, n-m](https://github.com/nir20ane/Python/blob/master/leetcode/LinkedLists/ReverseLinkedListII.py)
+
+# Depth First Search
+No. | Problem | Diffculty | Hint(Solution in hyperlink)
+--- | ------- | --- | ---
+1 | [Number of islands](https://leetcode.com/problems/number-of-islands/description) | medium | [depth first search](https://github.com/nir20ane/Python/blob/master/leetcode/NumberofIslands.py)
+
+# Sliding Window
+No. | Problem | Diffculty | Hint(Solution in hyperlink)
+--- | ------- | --- | ---
+1 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description) | medium | [Sliding window approach](https://github.com/nir20ane/Python/blob/master/leetcode/FruitBaskets.py)
