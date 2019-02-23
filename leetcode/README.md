@@ -94,6 +94,7 @@ No. | Problem | Diffculty | Hint(Solution in hyperlink)
 10 | [LRU Cache](https://leetcode.com/problems/lru-cache/description) | hard | [Dictionary and Doubly Linked List](https://github.com/nir20ane/Python/blob/master/leetcode/LRUCache.py)
 11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description) | hard | [imin, imax, m and n variables](https://github.com/nir20ane/Python/blob/master/leetcode/MedianofTwoSortedArrays.py)
 12 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description) | hard | [Use Dict with chr and list and dict with char and int](https://github.com/nir20ane/Python/blob/master/leetcode/AlienDictionary.py)
+13 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/description) | easy | [Use string and count, reverse at the end](https://github.com/nir20ane/Python/blob/master/leetcode/LicenseKeyFormatting.py)
 
 # Dynamic Programming
 No. | Problem | Diffculty | Hint(Solution in hyperlink)
